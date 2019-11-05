@@ -34,7 +34,7 @@ I implemented the following files, amongst a few others:
 - [RecordId.java](https://github.com/jeremyreikes/ColgateDB/blob/master/tuple/RecordId.java)
 - [Tuple.java](https://github.com/jeremyreikes/ColgateDB/blob/master/tuple/Tuple.java)
 - [TupleDesc.java](https://github.com/jeremyreikes/ColgateDB/blob/master/tuple/TupleDesc.java)
-### Transactions and Locking
+### Transactions, Locking, and Concurrency control
 - [LockManagerImpl.java](https://github.com/jeremyreikes/ColgateDB/blob/master/transactions/LockManagerImpl.java)
 - [LockTableEntry.java](https://github.com/jeremyreikes/ColgateDB/blob/master/transactions/LockTableEntry.java)
 ### Paging
