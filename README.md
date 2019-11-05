@@ -49,7 +49,7 @@ I implemented the following files, amongst a few others:
 ### Logging
 As of 11/05/2019, my logging file is on an old hard drive.  I should be able to get to the hard drive the week of 11/16 and will add it then.
 
-##Limitations
+## Limitations
 Although ColgateDB contains most basic features found in DBMS's, it has some limitations compared to more fully-featured databases.
 - Contains only fixed length records
 - Lacks a front end client for querying
