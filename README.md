@@ -3,8 +3,7 @@ ColgateDB is multi-user transactional DBMS written in Java.
 
 It served a semester-long project for COSC 460, Database Management Systems, taught by Professor Michael Hay at Colgate University.
 
-ColgateDB borrows heavily from SimpleDB, which was created by Sam Madden at MIT.
-Many thanks to Professor Hay for creating this invaluable tool for understanding Databases.
+Many thanks to Professor Hay for creating this project.
 
 ## Overview
 ColgateDB is a minimalist Database Management System written in Java.  
